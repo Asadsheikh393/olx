@@ -1,0 +1,106 @@
+.banner-2{
+    width: 1400px;
+    align-items: center;
+    
+    padding-left: 200px;
+}
+.information{
+    margin-top: 25px;
+}
+.information .container-fluid .col-md-10{
+    margin-left: 20px;
+    background-color: #000;
+    width: 880px;
+}
+.information .container-fluid .col-md-10 img{
+    height: 500px;
+    margin-left: 100px;
+}
+.information .container-fluid .col-md-10 .btn{
+    margin-top: 30px;
+    padding-right: 20px;
+    width: 120px;
+    background-color: #ebd82d;
+    border: none;
+    font-weight: 100;
+    font-size:xx-small;
+    position: absolute;
+}
+.pics img{
+    width: 100px;
+    border: 1px solid green;
+}
+.pics .container-fluid{
+    width: 500px;
+    float: left;
+    border: thin;
+}
+.pics{
+    border: 1px solid green;
+    width: 100px;
+}
+.header{
+    display: flex;
+    height: 90px;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+.bot{
+    margin-left: 20px;
+}
+.header-2{
+    height: 150px ;
+    display: flex;
+    
+}
+.header-2 img{
+    width: 100px;
+    height: 100px;
+}
+.header-2 p{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.header-2 p span{
+    font-weight: bold;
+    font-size: x-large;
+}
+ .but{
+    color: #ffff;
+    background-color: rgb(10, 51, 10);
+    width: 350px;
+    margin-left: 20px;
+    height: 45px;
+  margin-bottom: 10px;
+}
+.phone{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.phone p{
+    margin-left: 10px;
+}
+.detail .container-fluid .col-8{
+    margin-top: 20px;
+    border: 1px solid #000;
+}
+.header-3 img{
+    width: 380px;
+    height: 200px;
+    
+}
+.header-3{
+    width: 380px;
+    margin-left: 10px;
+    -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+    margin-bottom: 10px;
+}
+.header-3 p{
+    margin-left: 20px;
+}
+.detail .container-fluid{
+    margin-top: 20px;
+}
